@@ -104,7 +104,7 @@ Track dashboard metrics frequently to identify trends and opportunities.
 ---
 
 ## 📂 Project Structure
-
+```
 Sales-Analysis-Dashboard/
 │
 ├── Sales_analysis_dashboard.pbix
@@ -116,6 +116,8 @@ Sales-Analysis-Dashboard/
 ├── dataset/
 │ ├── Details.csv
 | └── Orders.csv
+
+```
 ---
 
 ## 🚀 How to Use
