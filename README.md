@@ -113,9 +113,9 @@ Sales-Analysis-Dashboard/
 ├── images/
 │ └── dashboard.png
 │
-├── dataset/
-│ ├── Details.csv
-| └── Orders.csv
+└── dataset/
+  ├── Details.csv
+  └── Orders.csv
 
 ```
 ---
